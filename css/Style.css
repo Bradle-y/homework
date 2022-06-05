@@ -1,0 +1,166 @@
+body {
+    font-family: Roboto, Arial, sans-serif;
+}
+
+.header {
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    background: #007765;
+    height: 84px;
+}
+
+.logo1 {
+ margin-top: 20px;
+ margin-left: 55px;
+ z-index: 1;
+}
+
+.logo2 {
+margin-top: 20px;
+margin-left: -49px;
+z-index: 2;
+}
+.banner {
+    margin-left: 0px;
+    margin-top: 84px;
+    margin-right: 0px;
+    background-image: url('img/banner.png');
+    background-size: cover;
+    background-position: center center;
+    height: 403px;
+    color: #ffffff;
+    font-size: 72px;
+    text-align: center;
+    vertical-align: center;
+  }
+
+  .container {
+    box-sizing: border-box;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-top: 150px;
+  }
+
+  .content {
+    display: block;
+    max-width: 1109px;
+    padding: 0px 55px 50px 55px;
+    margin:auto;
+  }
+
+h1 {
+    color: #007765;
+    font-size: 64px;
+    text-align:center, justify;
+}
+
+p {
+    color: #000000; 
+    font-size: 25px;
+    align: center;
+    text-align: justify;
+}
+
+.hero {
+    background-image: url('img/hero.png');
+    background-size: cover;
+    background-position: center center;
+    height: 227px;
+    padding-top: 128px;
+    padding-bottom: 128px;
+    color: #ffffff;
+    font-size: 48px;
+    font-style: italic;
+    text-align: center;
+  }
+
+  .container1 {
+    box-sizing: border-box;
+    max-width: 893px;
+    max-height: 227px;
+    margin: auto;
+  }
+
+
+  .footer {
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    background: #333333;
+    height: 176px;
+}
+
+.footertext {    
+  box-sizing: border-box;
+  max-width: 540px;
+  max-height: 64px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 64px;
+  font-size: 18px;
+  text-align: center;
+}
+
+a:link {
+  text-decoration: none;
+  color:#ffffff
+}
+
+a:visited {
+  color:#ffffff
+}
+
+a:hover {
+  color: #afafaf
+}
+
+.pic {
+  float: left;
+  margin: 0 48px 0 0;
+  height: 115px;
+}
+
+.team {
+  background-color: #eeeeee;
+  padding-top: 5px;
+  padding-bottom: 94px;
+}
+
+.photo {
+  width: 168px;
+}
+
+.tbl {
+  margin: auto;
+  color: #000000;
+  font-size: 18px;
+}
+
+td {
+  width: 350px;
+  height: 283px;
+}
+
+h3 {
+  color:#007765;
+  font-size: 24px;
+  margin: 0.5rem 0 0.2rem 0;
+}
+
+.logo {float: left}
+
+.menu {
+  float: right;
+  margin: 29px 54px auto auto;
+  font-size: 24px;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+
